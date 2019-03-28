@@ -1,4 +1,4 @@
-# Stock-Market-Analysis
+
 Dplyr, TimeSeries, Highcharter, Plotly
 
 Scraped data from NASDAQ’s website using Import.io to collect & store stock market’s data into an SQLite database.
